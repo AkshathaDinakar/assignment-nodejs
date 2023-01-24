@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "-express -sequilize -postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshathaDinakar/assignment-nodejs.git"
+  },
+  "author": "Akshatha D k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshathaDinakar/assignment-nodejs/issues"
+  },
+  "homepage": "https://github.com/AkshathaDinakar/assignment-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0",
+    "sequelize": "^6.28.0"
+  }
+}
